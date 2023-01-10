@@ -22,6 +22,8 @@ Enjoy the beautiful Corgi views from this nice trip. Drag and drop your own gpx 
 
 [route3](https://www.alltrails.com/explore/trail/romania/prahova/piatra-arsa-to-sinaia-cycle-route)
 
+[route4](https://2ride.eu/segment/off64-valea-de-brazi-curmatura-tulisa/)
+
 ### Inspiration
 
 ### TODO
