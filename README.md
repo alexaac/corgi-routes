@@ -28,4 +28,4 @@ Enjoy the beautiful Corgi views from this nice trip. Drag and drop your own gpx 
 
 ### TODO
 
-TODO
+Fix chart for Tulișa
